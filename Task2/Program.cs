@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Task1
+namespace Task2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sana Commerce Software Development Bootcamp");
+            Console.WriteLine("Savchuk Elena");
         }
     }
 }
